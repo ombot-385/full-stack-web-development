@@ -1,4 +1,0 @@
-windows:-
-1.DOM-(elements)-all h1,body,button etc.
-2.BOM-(screen),navigator,location.
-3.JAVASCRIPT-(object,array,functions,class)
